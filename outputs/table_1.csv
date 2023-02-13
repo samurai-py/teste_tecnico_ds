@@ -1,0 +1,59 @@
+Cidade,CodigoDaCidade,Data,Regiao,Pais,Latitude,Longitude,TemperaturaMaxima,TemperaturaMinima,TemperaturaMedia,VaiChover,ChanceDeChuva,CondicaoDoTempo,NascerDoSol,PorDoSol,VelocidadeMaximaDoVento
+Aparecida,3502507,2023-01-11,Sao Paulo,Brazil,-22.83,-45.23,27.0,14.3,20.2,Sim,86.0,Moderate rain,05:27 AM,06:53 PM,4.7
+Aparecida,3502507,2023-01-12,Sao Paulo,Brazil,-22.83,-45.23,26.1,15.1,19.5,Sim,89.0,Moderate rain,05:28 AM,06:53 PM,3.8
+Aparecida,3502507,2023-01-13,Sao Paulo,Brazil,-22.83,-45.23,29.9,14.5,21.0,Sim,83.0,Moderate rain,05:28 AM,06:53 PM,3.6
+Aparecida,3502507,2023-01-14,Sao Paulo,Brazil,-22.83,-45.23,31.1,14.8,21.7,Sim,85.0,Moderate rain,05:29 AM,06:53 PM,4.5
+Aparecida,3502507,2023-01-15,Sao Paulo,Brazil,-22.83,-45.23,29.1,16.4,21.4,Sim,84.0,Heavy rain,05:30 AM,06:53 PM,3.8
+Aparecida,3502507,2023-01-15,Sao Paulo,Brazil,-22.83,-45.23,29.1,16.4,21.4,Sim,84.0,Heavy rain,05:30 AM,06:53 PM,3.8
+Arapeí,3503158,2023-01-11,Sao Paulo,Brasil,-22.68,-44.45,28.2,18.7,22.7,Sim,92.0,Heavy rain,05:24 AM,06:48 PM,3.4
+Arapeí,3503158,2023-01-11,Sao Paulo,Brasil,-22.68,-44.45,28.2,18.7,22.7,Sim,92.0,Heavy rain,05:24 AM,06:48 PM,3.4
+Areias,3503505,2023-01-11,Paraiba,Brazil,-6.45,-38.43,35.0,22.3,27.7,Sim,89.0,Patchy rain possible,05:27 AM,05:54 PM,17.0
+Areias,3503505,2023-01-11,Paraiba,Brazil,-6.45,-38.43,35.0,22.3,27.7,Sim,89.0,Patchy rain possible,05:27 AM,05:54 PM,17.0
+Bananal,3504909,2023-01-11,Maranhao,Brazil,-3.99,-43.12,36.3,21.1,27.2,Não,0.0,Partly cloudy,05:50 AM,06:10 PM,6.5
+Bananal,3504909,2023-01-11,Maranhao,Brazil,-3.99,-43.12,36.3,21.1,27.2,Não,0.0,Partly cloudy,05:50 AM,06:10 PM,6.5
+Cachoeira Paulista,3508603,2023-01-11,Sao Paulo,Brazil,-22.67,-45.02,27.9,16.4,20.8,Sim,92.0,Moderate rain,05:26 AM,06:51 PM,3.6
+Cachoeira Paulista,3508603,2023-01-11,Sao Paulo,Brazil,-22.67,-45.02,27.9,16.4,20.8,Sim,92.0,Moderate rain,05:26 AM,06:51 PM,3.6
+Canas,3509957,2023-01-11,Guanacaste,Costa Rica,10.43,-85.1,31.5,19.7,24.5,Sim,85.0,Patchy rain possible,06:02 AM,05:37 PM,9.8
+Canas,3509957,2023-01-11,Guanacaste,Costa Rica,10.43,-85.1,31.5,19.7,24.5,Sim,85.0,Patchy rain possible,06:02 AM,05:37 PM,9.8
+Caraguatatuba,3510500,2023-01-11,Sao Paulo,Brazil,-23.62,-45.42,27.6,22.0,24.1,Sim,88.0,Moderate rain,05:25 AM,06:54 PM,7.8
+Caraguatatuba,3510500,2023-01-11,Sao Paulo,Brazil,-23.62,-45.42,27.6,22.0,24.1,Sim,88.0,Moderate rain,05:25 AM,06:54 PM,7.8
+Caçapava,3508504,2023-01-11,Sao Paulo,Brasil,-23.1,-45.72,26.1,17.5,21.0,Sim,89.0,Moderate rain,05:28 AM,06:55 PM,3.6
+Caçapava,3508504,2023-01-11,Sao Paulo,Brasil,-23.1,-45.72,26.1,17.5,21.0,Sim,89.0,Moderate rain,05:28 AM,06:55 PM,3.6
+Cunha,3513603,2023-01-11,Sao Paulo,Brazil,-23.08,-44.97,27.3,18.2,21.5,Sim,92.0,Heavy rain,05:27 AM,06:53 PM,4.3
+Cunha,3513603,2023-01-11,Sao Paulo,Brazil,-23.08,-44.97,27.3,18.2,21.5,Sim,92.0,Heavy rain,05:27 AM,06:53 PM,4.3
+Ilhabela,3520400,2023-01-11,Sao Paulo,Brazil,-23.78,-45.35,26.9,17.9,21.5,Sim,91.0,Moderate rain,05:28 AM,06:55 PM,4.7
+Ilhabela,3520400,2023-01-11,Sao Paulo,Brazil,-23.78,-45.35,26.9,17.9,21.5,Sim,91.0,Moderate rain,05:28 AM,06:55 PM,4.7
+Jacareí,3524402,2023-01-11,Sao Paulo,Brasil,-23.32,-45.97,27.3,18.4,21.4,Sim,94.0,Heavy rain,05:28 AM,06:55 PM,3.4
+Jacareí,3524402,2023-01-11,Sao Paulo,Brasil,-23.32,-45.97,27.3,18.4,21.4,Sim,94.0,Heavy rain,05:28 AM,06:55 PM,3.4
+Jambeiro,3524907,2023-01-11,Minas Gerais,Brazil,-18.08,-42.77,27.1,18.1,21.2,Sim,94.0,Heavy rain,05:26 AM,06:32 PM,4.5
+Jambeiro,3524907,2023-01-11,Minas Gerais,Brazil,-18.08,-42.77,27.1,18.1,21.2,Sim,94.0,Heavy rain,05:26 AM,06:32 PM,4.5
+Lagoinha,3526308,2023-01-11,Bahia,Brazil,-10.32,-38.9,34.9,20.9,26.8,Sim,85.0,Patchy rain possible,05:23 AM,06:05 PM,11.0
+Lagoinha,3526308,2023-01-11,Bahia,Brazil,-10.32,-38.9,34.9,20.9,26.8,Sim,85.0,Patchy rain possible,05:23 AM,06:05 PM,11.0
+Lavrinhas,3526605,2023-01-11,Goias,Brazil,-14.97,-49.3,30.4,19.5,22.8,Sim,89.0,Moderate rain,05:55 AM,06:53 PM,6.3
+Lavrinhas,3526605,2023-01-11,Goias,Brazil,-14.97,-49.3,30.4,19.5,22.8,Sim,89.0,Moderate rain,05:55 AM,06:53 PM,6.3
+Lorena,3527207,2023-01-11,Sao Paulo,Brazil,-22.73,-45.13,27.9,16.4,20.8,Sim,92.0,Moderate rain,05:26 AM,06:51 PM,3.6
+Lorena,3527207,2023-01-11,Sao Paulo,Brazil,-22.73,-45.13,27.9,16.4,20.8,Sim,92.0,Moderate rain,05:26 AM,06:51 PM,3.6
+Monteiro Lobato,3531704,2023-01-11,Sao Paulo,Brazil,-22.97,-45.83,26.1,17.5,21.0,Sim,89.0,Moderate rain,05:28 AM,06:55 PM,3.6
+Monteiro Lobato,3531704,2023-01-11,Sao Paulo,Brazil,-22.97,-45.83,26.1,17.5,21.0,Sim,89.0,Moderate rain,05:28 AM,06:55 PM,3.6
+Paraibuna,3535606,2023-01-11,Sao Paulo,Brazil,-23.38,-45.65,26.9,17.9,21.5,Sim,91.0,Moderate rain,05:28 AM,06:55 PM,4.7
+Paraibuna,3535606,2023-01-11,Sao Paulo,Brazil,-23.38,-45.65,26.9,17.9,21.5,Sim,91.0,Moderate rain,05:28 AM,06:55 PM,4.7
+Pindamonhangaba,3538006,2023-01-11,Sao Paulo,Brazil,-22.92,-45.47,27.0,14.3,20.2,Sim,86.0,Moderate rain,05:27 AM,06:53 PM,4.7
+Pindamonhangaba,3538006,2023-01-11,Sao Paulo,Brazil,-22.92,-45.47,27.0,14.3,20.2,Sim,86.0,Moderate rain,05:27 AM,06:53 PM,4.7
+Piquete,3538501,2023-01-11,Sao Paulo,Brazil,-22.6,-45.18,27.9,16.4,20.8,Sim,92.0,Moderate rain,05:26 AM,06:51 PM,3.6
+Piquete,3538501,2023-01-11,Sao Paulo,Brazil,-22.6,-45.18,27.9,16.4,20.8,Sim,92.0,Moderate rain,05:26 AM,06:51 PM,3.6
+Queluz,3541901,2023-01-11,Lisboa,Portugal,38.75,-9.25,19.2,10.9,14.6,Sim,78.0,Patchy rain possible,07:55 AM,05:35 PM,13.0
+Queluz,3541901,2023-01-11,Lisboa,Portugal,38.75,-9.25,19.2,10.9,14.6,Sim,78.0,Patchy rain possible,07:55 AM,05:35 PM,13.0
+Roseira,3544301,2023-01-11,Parana,Brazil,-23.32,-50.88,29.0,17.9,22.7,Sim,89.0,Heavy rain,05:49 AM,07:17 PM,10.7
+Roseira,3544301,2023-01-11,Parana,Brazil,-23.32,-50.88,29.0,17.9,22.7,Sim,89.0,Heavy rain,05:49 AM,07:17 PM,10.7
+Santa Branca,3546009,2023-01-11,Sao Paulo,Brazil,-23.4,-45.88,26.9,17.9,21.5,Sim,91.0,Moderate rain,05:28 AM,06:55 PM,4.7
+Santa Branca,3546009,2023-01-11,Sao Paulo,Brazil,-23.4,-45.88,26.9,17.9,21.5,Sim,91.0,Moderate rain,05:28 AM,06:55 PM,4.7
+Silveiras,3552007,2023-01-11,Evora,Portugal,38.63,-8.35,17.1,7.9,12.5,Sim,96.0,Patchy rain possible,07:49 AM,05:30 PM,12.8
+Silveiras,3552007,2023-01-11,Evora,Portugal,38.63,-8.35,17.1,7.9,12.5,Sim,96.0,Patchy rain possible,07:49 AM,05:30 PM,12.8
+São Sebastião,3550704,2023-01-11,Sao Paulo,Brasil,-23.8,-45.42,27.6,22.0,24.1,Sim,88.0,Moderate rain,05:25 AM,06:54 PM,7.8
+São Sebastião,3550704,2023-01-11,Sao Paulo,Brasil,-23.8,-45.42,27.6,22.0,24.1,Sim,88.0,Moderate rain,05:25 AM,06:54 PM,7.8
+Taubaté,3554102,2023-01-11,Sao Paulo,Brésil,-23.03,-45.55,27.0,18.0,21.3,Sim,89.0,Moderate rain,05:27 AM,06:53 PM,5.1
+Taubaté,3554102,2023-01-11,Sao Paulo,Brésil,-23.03,-45.55,27.0,18.0,21.3,Sim,89.0,Moderate rain,05:27 AM,06:53 PM,5.1
+Tremembé,3554805,2023-01-11,Sao Paulo,Brasil,-22.97,-45.55,27.3,18.2,21.5,Sim,92.0,Heavy rain,05:27 AM,06:53 PM,4.3
+Tremembé,3554805,2023-01-11,Sao Paulo,Brasil,-22.97,-45.55,27.3,18.2,21.5,Sim,92.0,Heavy rain,05:27 AM,06:53 PM,4.3
+Ubatuba,3555406,2023-01-11,Sao Paulo,Brazil,-23.43,-45.07,28.7,18.0,22.4,Sim,87.0,Moderate rain,05:25 AM,06:54 PM,4.5
+Ubatuba,3555406,2023-01-11,Sao Paulo,Brazil,-23.43,-45.07,28.7,18.0,22.4,Sim,87.0,Moderate rain,05:25 AM,06:54 PM,4.5
